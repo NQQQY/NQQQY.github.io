@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>next 主题美化</title>
+    <url>/2019/10/28/next-%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>在hexo上搭建个人博客</title>
     <url>/2019/10/25/%E5%9C%A8hexo%E4%B8%8A%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
     <content><![CDATA[<h1 id="写在前面的话-未写完"><a href="#写在前面的话-未写完" class="headerlink" title="写在前面的话(未写完)"></a>写在前面的话(未写完)</h1><p>首先感谢B站up:程序羊的视频，根据他的保姆式教程，我终于搭建好了自己的个人博客。弯路走了不少，但却学到了很多，第一次接触到GitHub、git工具、markdown语法，有点像是开启了新世界的大门，希望能对我的前端学习有所帮助。</p>
 <p>其实在hexo上搭建博客并不难，在搭建的过程中，你会发现所有东西都放在一个文件夹下面，所以如果哪里错了，不要紧，删掉重来就是了（我就删过一次。。。）。</p>
 <a id="more"></a>
 <p>废话不多说，开始吧！</p>
-<h1 id="需要准备的工具"><a href="#需要准备的工具" class="headerlink" title="需要准备的工具"></a>需要准备的工具</h1><h2 id="安装Git"><a href="#安装Git" class="headerlink" title="安装Git"></a>安装Git</h2><p>Git是目前世界上最先进的分布式版本控制系统,非常强大，建议学习一下</p>
-<p>直接官网下载就可以了，下载后会有一个Git Bash的命令行工具，以后就用这个工具来使用git。</p>
-<h2 id="安装nodejs"><a href="#安装nodejs" class="headerlink" title="安装nodejs"></a>安装nodejs</h2><p>也是直接官网下载就可以了，安装也是一路next</p>
+<h1 id="需要准备的工具"><a href="#需要准备的工具" class="headerlink" title="需要准备的工具"></a>需要准备的工具</h1><h2 id="安装Git"><a href="#安装Git" class="headerlink" title="安装Git"></a>安装Git</h2><p>Git是目前世界上最先进的分布式版本控制系统,非常强大，建议学习一下<br>直接官网下载就可以了，选择自己需要的版本，下载后会有一个Git Bash的命令行工具，以后就用这个工具来使用git。<br><a href="https://git-scm.com/downloads" target="_blank" rel="noopener">打开官网</a><br>![](Git Bash.png)<br><img src="/images/GitBash.jpg"></p>
+<h2 id="安装nodejs"><a href="#安装nodejs" class="headerlink" title="安装nodejs"></a>安装nodejs</h2><p>也是直接官网下载就可以了，安装也是一路next<br><a href="https://nodejs.org/en/" target="_blank" rel="noopener">打开官网</a></p>
 <h1 id="白嫖github"><a href="#白嫖github" class="headerlink" title="白嫖github"></a>白嫖github</h1><h1 id="更换主题"><a href="#更换主题" class="headerlink" title="更换主题"></a>更换主题</h1>]]></content>
       <categories>
         <category>hexo</category>
